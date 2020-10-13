@@ -14,7 +14,9 @@
 5.git remote add keyword<link>
 <br>
 6.a.)git add .		#add all files in the current working directory
+<br>
       or
+<br>
   b.)git add <filename> #only add a specific files(not al the files)
 <br>
 7.git status # to see whether the file is commited or not
