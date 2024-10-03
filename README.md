@@ -1,4 +1,4 @@
-<h1> My Resume</h1>
+<h1> Git commands for Uploading the files</h1>
 <hr>
 <h1>Initial commands used for git</hr>
 <hr>
